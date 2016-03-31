@@ -1,0 +1,56 @@
+h1 {
+  text-align: center;
+  font-family: 'Mr Dafoe', cursive;
+  font-size: 6em;
+  margin-bottom: 50px;
+  margin-top: 50px;
+
+}
+
+h4{
+  text-align: center;
+  font-size: 3em;
+  padding: 30px;
+  margin-top: 0px;
+  margin-bottom: 30px;
+  font-family: sans-serif;
+  color: white;
+  background-color: rgba(0,0,0, .4);
+}
+
+body {
+  background-color: lightBlue;
+  margin: 0;
+}
+
+p {
+  text-align: center;
+  font-family: sans-serif;
+
+}
+
+select{
+  display: inline;
+  float:right;
+  display: block;
+}
+
+#content{
+  display: inline;
+}
+
+#countries-select{
+  background-color: black;
+  color: white;
+  font-family: sans-serif;
+  font-size: 20px;
+  border: 3px  black double;
+  
+}
+
+#map{
+  display: inline-block;
+  height: 500px;
+  width: 500px;
+  margin-right: 0;
+}
